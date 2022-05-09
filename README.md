@@ -1,5 +1,3 @@
-# CollectorChallenge
-A collector process that check on Test folder and once file is created it shall achieve the Target folder and store it in Storage folder
 Description:
  This program shall Monitor file creation in Test folder and once the file is created with specific name it will trigger:
   - Create disk usage information for all content of Target folder and store it in .\Target\CollectedData.txt
